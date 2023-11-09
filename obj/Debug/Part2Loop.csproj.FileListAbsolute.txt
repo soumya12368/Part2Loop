@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part2Loop\Part2Loop\bin\Debug\Part2Loop.exe.config
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part2Loop\Part2Loop\bin\Debug\Part2Loop.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part2Loop\Part2Loop\bin\Debug\Part2Loop.pdb
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part2Loop\Part2Loop\obj\Debug\Part2Loop.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part2Loop\Part2Loop\obj\Debug\Part2Loop.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part2Loop\Part2Loop\obj\Debug\Part2Loop.exe
+C:\Users\soums\OneDrive\Desktop\Simplilear\Day4\Part2Loop\Part2Loop\obj\Debug\Part2Loop.pdb
